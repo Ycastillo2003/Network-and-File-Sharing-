@@ -33,4 +33,4 @@ This lab outlines how to use network file shares and permisions to share resours
 
 ![image](https://github.com/user-attachments/assets/d2c7a10c-00d7-4529-bc66-d0a5f2dc3033)
 
-- Creating accounting security group
+- Creating accounting security group in active directory.
