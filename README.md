@@ -19,6 +19,9 @@ This lab outlines how to use network file shares and permisions to share resours
 
 - Overview of lab steps.
 
+![image](https://github.com/user-attachments/assets/e09ededd-f7d0-48bb-a6ec-bf8968e9e03d)
+
+- Creating our folders with varying levels of access.
 
 
 
