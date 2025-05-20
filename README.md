@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/8ce58d56-8077-4bfa-8b67-b80b0352c1bb)
 
 
-#<h1>Network-and File Sharing</h1>
+<h1>Network-and File Sharing</h1>
 This lab outlines how to use network file shares and permisions to share resoursces over the network and creating files to allow Read,Write, or Deny access to individual Users or groups.
 
 # Environments and Technologies Used</h2>
