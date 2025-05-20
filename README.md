@@ -26,7 +26,7 @@ This lab outlines how to use network file shares and permisions to share resours
 <h2>Deployment and Configuration Steps</h2>
 
 
-# Network-and-File Sharing.
+
 
 
 
