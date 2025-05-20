@@ -3,7 +3,7 @@
 
 
 # <h1>Network-and File Sharing</h1>.
-
+This lab outlines how to use network file shares and permisions to share resoursces over the network and creating files to allow Read,Write, or Deny access to individual Users or groups.
 
 2>Environments and Technologies Used</h2>
 
