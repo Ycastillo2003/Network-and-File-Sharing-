@@ -6,7 +6,7 @@ This lab outlines how to use network file shares and permisions to share resours
 
 # Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines/Computers)
 - Remote Desktop
 
 
