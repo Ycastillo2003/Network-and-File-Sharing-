@@ -16,9 +16,9 @@ This lab outlines how to use network file shares and permisions to share resours
 - Windows 10 (21H2)
 
 # Lab steps
+![image](https://github.com/user-attachments/assets/166b02d8-300e-42d6-be60-460a99a1af5d)
 
-
-
+- Overview of lab steps.
 
 
 
