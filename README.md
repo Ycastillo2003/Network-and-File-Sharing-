@@ -15,7 +15,7 @@ This lab outlines how to use network file shares and permisions to share resours
 - Windows Server 2022
 - Windows 10 (21H2)
 
-# <h2>Lab steps
+# Lab steps
 
 
 
