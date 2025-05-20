@@ -8,15 +8,14 @@ This lab outlines how to use network file shares and permisions to share resours
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Active Directory Domain Services
-- PowerShell
+
 
 <h2>Operating Systems Used </h2>
 
 - Windows Server 2022
 - Windows 10 (21H2)
 
-# Lab steps 
+# <h2>Lab steps</h2>
 
 
 
