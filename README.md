@@ -25,4 +25,4 @@ This lab outlines how to use network file shares and permisions to share resours
 
 ![image](https://github.com/user-attachments/assets/fde6840e-5cd1-40cf-9d3e-b2caf22b41dc)
 
-- Giving the diffrent groups varying levels of access to our network share.
+- Giving the different groups varying levels of access to our network share.
