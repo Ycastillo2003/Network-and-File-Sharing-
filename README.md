@@ -38,3 +38,10 @@ This lab outlines how to use network file shares and permisions to share resours
 ![image](https://github.com/user-attachments/assets/3263cc4c-e55a-4aaa-99e7-36b940145282) ![image](https://github.com/user-attachments/assets/ce151e1f-4034-457b-9751-f74feb57fc2b)
 
 - Giving the accounting security group access to the accounting folder and verifying other users cant access it.
+
+![image](https://github.com/user-attachments/assets/7924ab04-9fb5-4d85-952f-467aa98fcd53)   ![image](https://github.com/user-attachments/assets/b2ce4b44-146a-444c-a4ee-6fca96a6ab0e)
+
+- Adding our user to the accounting security group and verifying that he has been granted access.
+
+
+
